@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <form id = "form1" action = "process.php" method="POST">
+        src :   <input name="src" type="text"> 
+        <br> <br>
+       
+        pre_name  : <input name="cf3" type="text">
+        <br> <br>
+        pre_fam_name :   <input name="cf4" type="text"> 
+        <br> <br>
+        pre_from_email : <input name="fid1" type="text">
+        <br><br>
+        pre_message :   <input name="cf13" type="text"> 
+        <br><br>
+        pre_tel : <input name="cf6" type="text">
+        <br><br>
+        <input type="submit" value="Submit">
+
+        
+    </form>
+
+
+    
+</body>
+<script>
+    function filled(inp1){
+      if (inp1.value.length == 0)
+       { 
+          alert("One field is empty");  	
+          return false; 
+       }  	
+       return true; 
+     } 
+    function sumbitcond(){
+        alert("Form submitted successfully.") ;
+        form1.action = "process.php";
+
+        
+     };
+
+     document.getElementById("form1").onsubmit = function sumbitted() {
+        alert("Form submitted successfully.");
+        
+        
+        if(filled(getElementById('inp1'))==true){
+            document.getElementById("form1").action = "process.php";
+           }
+    };
+</script>
+</html>

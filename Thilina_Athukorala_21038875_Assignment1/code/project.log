@@ -1,0 +1,96 @@
+Apr 15, 2023 6:43:58 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 6:43:58 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:94)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 6:43:58 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 6:43:58 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:94)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 6:43:58 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 7:34:11 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 7:34:11 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:94)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 7:34:11 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 7:34:11 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:94)
+	at edu.curtin.app.App.main(App.java:114)
+
+Apr 15, 2023 7:34:11 PM edu.curtin.app.Directory find
+WARNING: log file creation failed
+java.io.IOException: Couldn't get lock for project.log
+	at java.logging/java.util.logging.FileHandler.openFiles(FileHandler.java:491)
+	at java.logging/java.util.logging.FileHandler.<init>(FileHandler.java:342)
+	at edu.curtin.app.Directory.find(Directory.java:73)
+	at edu.curtin.app.Directory.find(Directory.java:98)
+	at edu.curtin.app.App.main(App.java:114)
+

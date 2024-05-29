@@ -1,0 +1,17 @@
+README
+======
+
+This is a Gradle project structure, so you can get started on the assignment without messing around with Gradle too much.
+
+Basically: 
+* Put all your source code in src/main/java test1 (or in further subdirectories inside src/main/java).
+* Type "./gradlew run" to run. 
+* Type "./gradlew check" to verify PMD rules.test1 (On Windows, drop the "./" from start of course; i.e., "gradlew run" or "gradlew check".)
+* Gradle currently considers "edu.curtin.app.App" to be the name (and package) of the main class. If you change this, you must also edit build.gradle, and change the "mainClass = ..." line accordingly.
+wuevu qyvduq qybedibq qbydiyq qndnqiy qyvbdb test1 qvuqniye qevu
+Some text abcabcabc some text
+test1 wwbheb wqebfuybe eqfbyqkbef qefbiqef test2
+wdbyiwbefyu we bybuwe fugwe fugwef test1 wubdcwubc wdug vcuw
+qvwjvfhqkef test2 wjkfbq qbefkhqb test1
+test2 aedkfe qkhvf whkfvkbwf 
+vavdyv whvdkVWHF test2 sbdjfbja jvbljba 
